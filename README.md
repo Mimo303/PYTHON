@@ -1,6 +1,6 @@
 ## 🚀 Projects — Learn By Building
 
-Each project lists the topics you need to know (or will learn) to build it. Do them in order within each level — they're designed to reinforce topics from the roadmap above.
+Each project lists the topics you need to know (or will learn) to build it. 
 
 ### 🟢 Beginner Projects
 
