@@ -6,7 +6,7 @@ Each project lists the topics you need to know (or will learn) to build it.
 
 | # | Project | Topics Used / Learned |
 |---|---|---|
-| 1 | -[]Number Guessing Game | variables, loops, conditionals, `random` module |
+| 1 | Number Guessing Game | variables, loops, conditionals, `random` module |
 | 2 | Simple Calculator (CLI) | functions, operators, input/output |
 | 3 | To-Do List App (CLI) | lists, dictionaries, file handling |
 | 4 | Password Strength Checker | strings, regex, conditionals |
